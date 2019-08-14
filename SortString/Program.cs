@@ -16,7 +16,12 @@ namespace SortString
 
             string s = string.Join(" ", words);
             Console.WriteLine(s);
+
+            string n = "10";
+            int.Parse(n);
+            Console.WriteLine(n);
             Console.ReadKey();
+
         }
     }
     
